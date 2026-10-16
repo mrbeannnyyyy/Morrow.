@@ -9,3 +9,4 @@ The Mac installer is in `downloads/Morrow-1.0.0-arm64.dmg` in the Documents webs
 The site icon, page, styles, and download-link configuration are all included in this folder. The download button uses the R2 URL when configured and otherwise points to `downloads/Morrow-1.0.0-arm64.dmg` for local hosting.
 # Morrow.
 # Morrow.
+# Morrow.
